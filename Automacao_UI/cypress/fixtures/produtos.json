@@ -1,0 +1,20 @@
+[
+    {
+        "produto": "Abominable Hoodie",
+        "tamanho": "M",
+        "cor": "Green",
+        "quantidade": 1
+    },
+    {
+        "produto": "Caesar Warm-Up Pant",
+        "tamanho": 32,
+        "cor": "Gray",
+        "quantidade": 1
+    },
+    {
+        "produto": "Beaumont Summit Kit",
+        "tamanho": "XL",
+        "cor": "Orange",
+        "quantidade": 1
+    }
+]
